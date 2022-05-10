@@ -7,3 +7,5 @@ My first attempt at a complete data analysis project, the steps taken to reach t
 - Some basic data cleaning (to deal with missing values) was performed
 - 4 different views were developed in DBeaver
 - Views were imported into Power BI, and a dashboard made up of 5 different visuals was built using them
+- In order to view the dashboard, please download the file 'COVID-19 Dashboard - Global Numbers.pbix' and launch it in Power BI
+- In order to view the SQL script, please check the file 'covid_19_project.sql'
