@@ -9,4 +9,4 @@ My first attempt at a complete data analysis project, the steps taken to reach t
 - Views were imported into Power BI, and a dashboard made up of 5 different visuals was built using them
 - Analysis was performed till the end of Feb-2022. Data from start of March onwards was incomplete
 - In order to view the dashboard, please download the file "COVID-19 Dashboard - Global Numbers.pbix" and launch it in Power BI
-- In order to view the SQL script, please check the file "covid_19.sql"
+- In order to view the PostgreSQL script, please check the file "covid_19.sql"
