@@ -1,5 +1,5 @@
 # covid-19-analysis
-My first attempt at a complete data analysis project, the steps taken to reach the final outcome (which is the Power BI file) are as follows:
+Steps taken to reach the final outcome (which is the Power BI file) are as follows:
 - Raw data was obtained from World Health Organization's website
 - Data was imported into DBeaver in CSV format
 - Transformations were performed on the data to change the original format (string) into more suitable formats (date and numeric)
